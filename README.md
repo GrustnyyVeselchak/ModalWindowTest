@@ -5,6 +5,10 @@ https://www.youtube.com/watch?v=ZCvemsUfwPQ&ab_channel=PedroTech
 Годный индус...ссука, похоже это оно: 
 https://www.youtube.com/watch?v=5akdtwtmjZM&ab_channel=CodAffection
 
+
+СЮдааа блять: 
+https://www.youtube.com/watch?v=yYq0rWESsNY&ab_channel=%D0%96%D0%98%D0%B7%D0%BD%D1%8C%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0
+
 Берем и забиваем до среды плотный болт на наши задания. 
 1. Ответить на вопросы: 
 - что такое функции - фрагмент программного кода с определёнными параметрами, выполняющий определённое деёствие, к которому можно обратиться через его имя. может возвращать какое-то значение
